@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 50b9fde81a79d48fdb18feff04a1d94f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - GlassFloor: {fileID: 2100000, guid: 7bce6054670c04a27b9f578d4f1169c8, type: 2}
+  - WallsMaterial: {fileID: 2100000, guid: 4a518640f407c4ec0b1b6af0c102e5e0, type: 2}
+  - player: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
